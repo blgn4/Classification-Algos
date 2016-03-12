@@ -19,10 +19,7 @@ import java.util.Set;
 import edu.asu.sml.data.DiabetesSisters;
 import edu.asu.sml.PorterStemmer;;
 
-/**
- * Hello world!
- *
- */
+
 public class Logistic_Regress 
 {
 	static PorterStemmer ps = new PorterStemmer();
